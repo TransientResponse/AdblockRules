@@ -1,0 +1,17 @@
+b.monetate.net/*
+cdn.fastclick.net/*
+
+www.newgrounds.com##IFRAME[id="cpmstar_300x250"][class="onethirdad"]
+www.sparkfun.com##IMG[id="banner-img"]
+www.minimum-wage.org##DIV[id="affiliateBlock"]
+www.minimum-wage.org##FORM[name="jobsearch"]
+www.minimum-wage.org##A[href="http://www.jobsare.us/"]
+@@||calclavia.com/$document
+weather.com##DIV[class=^"wx-module"]
+weather.com##DIV[class="wx-inner"]
+weather.com##DIV[class="trc_rbox_container"]
+www.newegg.com##DIV[class="hero"]
+www.newegg.com##DIV[class="section w300"]
+www.newegg.com##DIV[class="banner"]
+OBJECT[data^="http://cdn.fastclick.net/"]
+arstechnica.com##A[href="/subscriptions/"]
