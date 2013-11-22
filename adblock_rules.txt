@@ -17,3 +17,7 @@ www.newegg.com##DIV[class="section w300"]
 www.newegg.com##DIV[class="banner"]
 OBJECT[data^="http://cdn.fastclick.net/"]
 arstechnica.com##A[href="/subscriptions/"]
+a[href="*adServer*"]
+@@||bs.serving-sys.com/BurstingPipe/adServer.bs
+||ad.crwdcntrl.net
+
