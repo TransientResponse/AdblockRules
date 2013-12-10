@@ -20,4 +20,4 @@ arstechnica.com##A[href="/subscriptions/"]
 a[href="*adServer*"]
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs
 ||ad.crwdcntrl.net
-
+||quora.com^
