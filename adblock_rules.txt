@@ -21,3 +21,5 @@ a[href="*adServer*"]
 @@||bs.serving-sys.com/BurstingPipe/adServer.bs
 ||ad.crwdcntrl.net
 ||quora.com^
+visboo.com##DIV[id="post-26466"]
+||citiesofdoom.com^
